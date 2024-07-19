@@ -6,7 +6,7 @@ baseurl: "/jekyll-test.github.io" # the subpath of your site, e.g. /blog
 url: "https://aniltj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: uswds-jekyll
+# theme: uswds-jekyll
 #plugins:
 #  - jekyll-feed
 
